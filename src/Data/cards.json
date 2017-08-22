@@ -1,0 +1,55 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "eng": "hotel",
+            "it": "l'albergo"
+        },
+        {
+            "id": 2,
+            "eng": "star",
+            "it": "la stella"
+        },
+        {
+            "id": 3,
+            "eng": "strawberry",
+            "it": "la fragola"
+        },
+        {
+            "id": 4,
+            "eng": "cheese",
+            "it": "il formaggio"
+        },
+        {
+            "id": 5,
+            "eng": "apple",
+            "it": "la mela"
+        },
+        {
+            "id": 6,
+            "eng": "education",
+            "it": "l'istruzione"
+        },
+        {
+            "id": 7,
+            "eng": "reservation",
+            "it": "la prenotazione"
+        },
+        {
+            "id": 8,
+            "eng": "week",
+            "it": "la settimana"
+        },
+        {
+            "id": 9,
+            "eng": "yesterday",
+            "it": "ieri"
+        },
+        {
+            "id": 10,
+            "eng": "beautiful, lovely, handsome, nice, fine, good",
+            "it": "bello"
+        }
+ 
+    ]
+}
