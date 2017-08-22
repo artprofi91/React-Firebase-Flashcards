@@ -6,6 +6,7 @@ The basis for my application was ([Wes Doyle Tutorial](https://www.youtube.com/w
 # How app works
 
 ![react](https://user-images.githubusercontent.com/28790452/29590911-dc06a938-8761-11e7-894b-fe3752f4f114.gif)
+
 <br>
 In this case, I store in Firebase 10 flashcards with English and Italian words. When you open a website you can see a flashcard with an English word and should try to remember it's meaning in Italian.
 <br> 
