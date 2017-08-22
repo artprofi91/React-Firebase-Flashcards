@@ -4,6 +4,9 @@ Most of us have one or two areas of knowledge that we strive to know very well â
 The basis for my application was ([Wes Doyle Tutorial](https://www.youtube.com/watch?v=pKCAtlsn1Eo&t=2432s)).
 
 # How app works
+
+![react](https://user-images.githubusercontent.com/28790452/29590911-dc06a938-8761-11e7-894b-fe3752f4f114.gif)
+<br>
 In this case, I store in Firebase 10 flashcards with English and Italian words. When you open a website you can see a flashcard with an English word and should try to remember it's meaning in Italian.
 <br> 
 If you can not remember the word translation or you want to check yourself you can hover the cursor on the card and you will see the reverse of the card with Italian word's translation.
@@ -33,3 +36,6 @@ Click [here](https://github.com/artprofi91/React-Firebase-Flashcards) then downl
 
 #### Project will run on:
 Open the browser go to localhost:8080
+
+#### Hint
+Don't forget to install dependencies
